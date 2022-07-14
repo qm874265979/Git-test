@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("hello git 1");
         System.out.println("hot-fix branch modify ");
         System.out.println("master branch modify ");
+        System.out.println("hot-fix branch modify 2");
     }
 }
